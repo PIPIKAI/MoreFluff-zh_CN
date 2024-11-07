@@ -210,7 +210,7 @@ return {
     },
     Joker = {
       j_mf_badlegaldefence = {
-        name = "Bad Legal Defence",
+        name = "不良法律辩护",
         text = {
           "当选择Boss 盲注时",
           "获得一个{C:attention}死亡{} 塔罗牌",
@@ -218,15 +218,15 @@ return {
         }
       },
       j_mf_basepaul_card = {
-        name = "Basepaul Card",
+        name = "保罗卡",
         text = {
-          "替代 {C:red}Paul{}",
+          "替代 {C:red}保罗{}",
           "{X:mult,C:white} X#1# {} 倍率. {X:mult,C:white} X#2# {} 倍率",
           "{C:inactive}(谁是Paul?)"
         }
       },
       j_mf_bladedance = {
-        name = "Blade Dance",
+        name = "刀锋之舞",
         text = {
           "选择盲注后",
           "添加 {C:attention}#1#{}张临时的",
@@ -241,21 +241,21 @@ return {
         }
       },
       j_mf_bloodpact = {
-        name = "Blood Pact",
+        name = "血契",
         text = {
           "{X:mult,C:white} X#1# {} 倍率",
           "如果你出的牌不包括{C:hearts}红桃{}则{C:red}自毁{}"
         }
       },
       j_mf_bowlingball = {
-        name = "Bowling Ball",
+        name = "保龄球",
         text = {
           "计分的 {C:attention}3{} 将会获得",
           " {C:chips}+#1#{} 筹码和 {C:mult}+#2#{} 倍率"
         }
       },
       j_mf_cba = {
-        name = "Card Buffer Advanced",
+        name = "插卡缓冲区高级",
         text = {
           "{C:attention}重新触发{} 你第一个",
           "{C:dark_edition}增强{} 小丑",
@@ -263,7 +263,7 @@ return {
         }
       },
       j_mf_clipart = {
-        name = "Clipart Joker",
+        name = "贴画小丑",
         text = {
           "选择 {C:attention}盲注{} 时",
           "创建一张{C:colourcard}色彩牌{}",
@@ -271,7 +271,7 @@ return {
         }
       },
       j_mf_colorem = {
-        name = "Colorem",
+        name = "色彩M",
         text = {
           "在你使用一张 {C:colourcard}色彩牌{} 之后,",
           "有{C:green}#1# / #2#{} 的机会获得一张复制",
@@ -279,7 +279,7 @@ return {
         }
       },
       j_mf_coupon_catalogue = {
-        name = "Coupon Catalogue",
+        name = "优惠券手册",
         text = {
           "每买一张{C:attention}优惠券{}{C:mult}+#1#{} 倍率",
           "{C:inactive}(当前{C:mult}+#2#{C:inactive} 倍率)"
@@ -294,7 +294,7 @@ return {
         }
       },
       j_mf_dramaticentrance = {
-        name = "Dramatic Entrance",
+        name = "小丑登场",
         text = {
           "每回合第一次出牌",
           "{C:chips}+#1#{} 筹码"
@@ -308,7 +308,7 @@ return {
         }
       },
       j_mf_expansion_pack = {
-        name = "Expansion Pack",
+        name = "扩展套件",
         text = {
           "选择 {C:attention}盲注{} 后",
           "创建{C:attention}#1# 张{C:dark_edition}MOD{C:attention} 小丑",
@@ -316,7 +316,7 @@ return {
         }
       },
       j_mf_fleshpanopticon = {
-        name = "Flesh Panopticon",
+        name = "禁锢",
         text = {
           "当击败{C:red}X#1#{}个 {C:attention}Boss 盲注{}",
           "{C:red}自毁{},并创建一张",
@@ -324,7 +324,7 @@ return {
         }
       },
       j_mf_fleshprison = {
-        name = "Flesh Prison",
+        name = "肉狱",
         text = {
           "下一个{C:attention}Boss 盲注{}的分数要求{C:red}X#1#{}",
           "在你击败 {C:attention}Boss 盲注{}后这张牌将{C:red}自毁{}",
@@ -332,14 +332,14 @@ return {
         }
       },
       j_mf_globe = {
-        name = "Globe",
+        name = "地球仪",
         text = {
           "商店{C:attention}重掷{}时",
           "创建#1#张 {C:planet}星球{} 牌"
         }
       },
       j_mf_goldencarrot = {
-        name = "Golden Carrot",
+        name = "金萝卜",
         text = {
           "回合结束时",
           "赚{C:money}$#1#{}",
@@ -347,7 +347,7 @@ return {
         }
       },
       j_mf_hallofmirrors = {
-        name = "Hall of Mirrors",
+        name = "镜廊",
         text = {
           "当前回合每张计分的 {C:attention}6{}",
           "{C:attention}+#2#{} 手牌数量",
@@ -355,7 +355,7 @@ return {
         }
       },
       j_mf_hollow = {
-        name = "Hollow Joker",
+        name = "空心小丑",
         text = {
           "{C:attention}#1#{} 出牌数量",
           "每次出牌少于 {C:attention}#3#张",
@@ -363,7 +363,7 @@ return {
         }
       },
       j_mf_hyperbeam = {
-        name = "Hyper Beam",
+        name = "超光束",
         text = {
           "{X:red,C:white} X#1# {} 倍率",
           "选择{C:attention}盲注{}后",
@@ -371,14 +371,14 @@ return {
         }
       },
       j_mf_impostor = {
-        name = "Impostor",
+        name = "冒牌货",
         text = {
           "{X:mult,C:white} X#1# {} 倍率",
           "如果出牌只有一张{C:red}红桃{}"
         }
       },
       j_mf_jankman = {
-        name = "Jankman",
+        name = "简克曼",
         text = {
           "每张 {C:dark_edition}MOD{} 小丑牌",
           "{C:inactive}(还包括开心小丑){}",
@@ -386,13 +386,13 @@ return {
         }
       },
       j_mf_jester = {
-        name = "Jester",
+        name = "杰斯特",
         text = {
           "{C:chips,s:1.1}+#1#{} 筹码"
         }
       },
       j_mf_loadeddisk = {
-        name = "Loaded Disk",
+        name = "加载磁盘",
         text = {
           "售出时",
           "创建一张 {C:colourcard}粉色{}和",
@@ -401,14 +401,14 @@ return {
         }
       },
       j_mf_lollipop = {
-        name = "Lollipop",
+        name = "棒棒糖",
         text = {
           "{X:mult,C:white} X#1# {} 倍率",
           "出牌后{X:mult,C:white} -X#2# {} 倍率"
         }
       },
       j_mf_luckycharm = {
-        name = "Lucky Charm",
+        name = "幸运符",
         text = {
           "每回合结束",
           "{C:green}#1# / #3#{} 几率",
@@ -418,7 +418,7 @@ return {
         }
       },
       j_mf_mashupalbum = {
-        name = "Mashup Album",
+        name = "混搭专辑",
         text = {
           "如果顺子中包含红桃",
           "{C:mult}+#3#{} 倍率",
@@ -428,14 +428,14 @@ return {
         }
       },
       j_mf_mspaint = {
-        name = "MS Paint Joker",
+        name = "绘画小丑",
         text = {
           "在每个盲注开始时获得{C:attention}+#1#{}临时手牌上限",
           "在你出牌后失去这些手牌上限"
         }
       },
       j_mf_paintcan = {
-        name = "Paint Can",
+        name = "油漆罐",
         text = {
           "{C:green}#1# / #2#{} 几率增加",
           " {C:colourcard}色彩牌{}回合任务数"
@@ -448,7 +448,7 @@ return {
         }
       },
       j_mf_pixeljoker = {
-        name = "Pixel Joker",
+        name = "像素点小丑",
         text = {
           "当打出{C:attention}A{},",
           "{C:attention}4{} 和 {C:attention}9{} 每张计分时",
@@ -456,14 +456,14 @@ return {
         }
       },
       j_mf_rainbowjoker = {
-        name = "Rainbow Joker",
+        name = "彩虹小丑",
         text = {
           "{C:colourcard}色彩牌{}给予",
           "{X:mult,C:white} X#1#{} 倍率"
         }
       },
       j_mf_recycling = {
-        name = "Recycling",
+        name = "循环利用",
         text = {
           "当跳过 {C:attention}增强{}",
           "{C:attention}包{} 时",
@@ -473,7 +473,7 @@ return {
         }
       },
       j_mf_rosetinted = {
-        name = "Rose-Tinted Glasses",
+        name = "玫瑰色眼镜",
         text = {
           "如果 {C:attention}第一次出牌{}",
           "是一张 {C:attention}2{}, 摧毁这张牌",
@@ -481,14 +481,14 @@ return {
         }
       },
       j_mf_simplified = {
-        name = "Simplified Joker",
+        name = "简版小丑",
         text = {
           "所有 {C:blue}普通{} 小丑",
           "每张给予{C:mult}+#1#{} 倍率"
         }
       },
       j_mf_spiral = {
-        name = "Spiral Joker",
+        name = "螺旋小丑",
         text = {
           "{C:mult}+(#1#+#2#cos(pi/#3# x {C:attention}$${C:mult})){} 倍率",
           "{C:inactive}({C:attention}$${C:inactive} 代表你当前拥有的金钱数量)",
@@ -505,14 +505,14 @@ return {
         }
       },
       j_mf_teacup = {
-        name = "Teacup",
+        name = "茶杯",
         text = {
           "之后 {C:attention}#1#{}次出牌",
           "每次出牌升级牌型"
         }
       },
       j_mf_the_solo = {
-        name = "The Solo",
+        name = "独奏",
         text = {
           "如果出牌只有一张牌",
           "增加{X:mult,C:white} X#2# {} 倍率",
@@ -520,7 +520,7 @@ return {
         }
       },
       j_mf_tonersoup = {
-        name = "I Sip Toner Soup",
+        name = "啜饮爽肤汤",
         text = {
           "出牌时",
           "创建一张 {C:tarot}塔罗牌{}",
@@ -529,7 +529,7 @@ return {
         }
       },
       j_mf_treasuremap = {
-        name = "Treasure Map",
+        name = "藏宝图",
         text = {
           "{C:attention}#2#{} 回合之后",
           "卖出这张牌",
@@ -538,7 +538,7 @@ return {
         }
       },
       j_mf_triangle = {
-        name = "Triangle",
+        name = "三角小丑",
         text = {
           "如果出牌包括一个 {C:attention}三条",
           "打出的每张牌计分时",
@@ -546,7 +546,7 @@ return {
         }
       },
       j_mf_virtual = {
-        name = "Virtual Joker",
+        name = "虚拟小丑",
         text = {
           "当选择盲注时",
           "翻转并洗乱小丑牌",
@@ -681,12 +681,12 @@ return {
   },
   misc = {
     achievement_descriptions = {
-      ach_mf_dropkick_ten_hands = "Trigger Dropkick 5 times in one round",
-      ach_mf_huge_and_pixel = "Have a Pixel Joker and a Huge Joker",
-      ach_mf_jank_it_up = "Have three copies of Jankman",
+      ach_mf_dropkick_ten_hands = "一回合重新触发 Dropkick 5 五次",
+      ach_mf_huge_and_pixel = "有一种像素小丑和巨大小丑",
+      ach_mf_jank_it_up = "拥有三张简克曼",
       ach_mf_negative_philosophical = "拥有一张负片 烟斗小丑",
-      ach_mf_ten_colour_rounds = "Have a Colour Card with 10 triggers",
-      ach_mf_whos_paul = "Trigger Basepaul Card's stronger effect"
+      ach_mf_ten_colour_rounds = "触发10次色彩牌",
+      ach_mf_whos_paul = "触发保罗卡的强力效果"
     },
     achievement_names = {
       ach_mf_dropkick_ten_hands = "Going Infinite",
@@ -694,7 +694,7 @@ return {
       ach_mf_jank_it_up = "Love that Janker",
       ach_mf_negative_philosophical = "Deux Pipes",
       ach_mf_ten_colour_rounds = "10-ted",
-      ach_mf_whos_paul = "Who's Paul?"
+      ach_mf_whos_paul = "谁是 Paul?"
     },
     dictionary = {
       b_colour_cards = "色彩牌",
